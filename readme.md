@@ -16,7 +16,7 @@
 ```sh
 $ yarn add 1pwd
 # or
-$ npm add 1pwd
+$ npm install 1pwd
 ```
 
 ## Usage
