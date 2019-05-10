@@ -1,6 +1,6 @@
 # 1pwd
 
-[![npm](https://img.shields.io/npm/v/1pwd.svg?style=flat-square)](https://www.npmjs.com/package/1pwd) [![tests](https://img.shields.io/travis/deepsweet/1pwd/master.svg?label=tests&style=flat-square)](https://travis-ci.org/deepsweet/1pwd) [![coverage](https://img.shields.io/codecov/c/github/deepsweet/1pwd.svg?style=flat-square)](https://codecov.io/github/deepsweet/1pwd)
+[![npm](https://img.shields.io/npm/v/1pwd.svg?style=flat-square)](https://www.npmjs.com/package/1pwd) [![tests](https://img.shields.io/travis/deepsweet/1pwd/master.svg?label=tests&style=flat-square)](https://travis-ci.org/deepsweet/1pwd) [![coverage](https://img.shields.io/codecov/c/github/deepsweet/1pwd.svg?style=flat-square)](https://codecov.io/github/deepsweet/1pwd) [![Greenkeeper badge](https://badges.greenkeeper.io/deepsweet/1pwd.svg)](https://greenkeeper.io/)
 
 [1Password CLI](https://blog.agilebits.com/2017/09/06/announcing-the-1password-command-line-tool-public-beta/) wrapper.
 
