@@ -17,19 +17,19 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.0",
-    "decamelize": "^2.0.0",
-    "execa": "^0.10.0"
+    "decamelize": "^3.2.0",
+    "execa": "^1.0.0"
   },
   "devDependencies": {
-    "@deepsweet/eslint-config-node-ts": "^0.1.0",
-    "@deepsweet/start-preset-node-ts-lib": "^0.2.0",
-    "@types/decamelize": "^1.2.0",
+    "@deepsweet/eslint-config-node-ts": "^0.2.1",
+    "@deepsweet/start-preset-node-ts-lib": "^0.9.0",
+    "@types/decamelize": "^3.0.3",
     "@types/execa": "^0.9.0",
-    "@types/node": "^10.3.1",
-    "mocku": "^0.2.1",
-    "spyfn": "^0.1.1",
-    "tape-promise": "^3.0.0",
-    "typescript": "^2.9.1"
+    "@types/node": "^12.0.0",
+    "mocku": "^0.5.0",
+    "spyfn": "^0.2.0",
+    "tape-promise": "^4.0.0",
+    "typescript": "^3.4.5"
   },
   "eslintConfig": {
     "extends": "@deepsweet/eslint-config-node-ts"
